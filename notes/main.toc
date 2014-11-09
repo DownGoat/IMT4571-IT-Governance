@@ -2,35 +2,39 @@
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Human Resources Security}{5}{chapter.1}
+\contentsline {chapter}{\numberline {1}Information Security Policy and Scope}{5}{chapter.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.0.1}Job descriptions and compentency requirements}{5}{subsection.1.0.1}
+\contentsline {chapter}{\numberline {2}The Risk Assesment and Statement of Applicabilitiy}{7}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.0.2}Screening}{5}{subsection.1.0.2}
+\contentsline {chapter}{\numberline {3}Human Resources Security}{11}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.0.3}Terms and conditions of employment}{6}{subsection.1.0.3}
+\contentsline {subsection}{\numberline {3.0.1}Job descriptions and compentency requirements}{11}{subsection.3.0.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.0.4}During employment}{6}{subsection.1.0.4}
+\contentsline {subsection}{\numberline {3.0.2}Screening}{11}{subsection.3.0.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.0.5}Disciplinary process}{7}{subsection.1.0.5}
+\contentsline {subsection}{\numberline {3.0.3}Terms and conditions of employment}{12}{subsection.3.0.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.0.6}Termination or change of employment}{7}{subsection.1.0.6}
+\contentsline {subsection}{\numberline {3.0.4}During employment}{12}{subsection.3.0.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Physical and Environmental Security}{9}{chapter.2}
+\contentsline {subsection}{\numberline {3.0.5}Disciplinary process}{13}{subsection.3.0.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Secure Areas}{9}{section.2.1}
+\contentsline {subsection}{\numberline {3.0.6}Termination or change of employment}{13}{subsection.3.0.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}Physical security perimeter}{9}{subsection.2.1.1}
+\contentsline {chapter}{\numberline {4}Physical and Environmental Security}{15}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.2}Physical Entry Controls}{10}{subsection.2.1.2}
+\contentsline {section}{\numberline {4.1}Secure Areas}{15}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.3}Securing Offices, Rooms and Facilities}{10}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {4.1.1}Physical security perimeter}{15}{subsection.4.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\leavevmode {\color {ocre}Bibliography}}{11}{chapter*.2}
+\contentsline {subsection}{\numberline {4.1.2}Physical Entry Controls}{16}{subsection.4.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Books}{11}{section*.3}
+\contentsline {subsection}{\numberline {4.1.3}Securing Offices, Rooms and Facilities}{16}{subsection.4.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Articles}{11}{section*.4}
+\contentsline {chapter}{\leavevmode {\color {ocre}Bibliography}}{17}{chapter*.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\leavevmode {\color {ocre}Index}}{13}{section*.5}
+\contentsline {section}{Books}{17}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Articles}{17}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\leavevmode {\color {ocre}Index}}{19}{section*.5}
 \contentsfinish 
